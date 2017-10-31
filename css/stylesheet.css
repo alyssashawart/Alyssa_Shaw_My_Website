@@ -1,21 +1,22 @@
    body{
       background-color:white;
-      color: #5555555;
+      color: #222;
 
-      font-family:cursive;
+      font-family: 'Roboto Mono', monospace;
       font-size: 12px;
       font-weight: normal;
    }
 h1{
-   color: #5555555;
+   color: #222;
 
    font-family: 'Anton', sans-serif;
    font-size:219px;
    font-weight: normal;
+   margin: 50px
 
 }
-h2{   color: #5555555;
-
+h2{   color: #222;
    font-family: 'Roboto Mono', monospace;
    font-size:34px;
-   font-weight: normal;}
+   font-weight: 300;
+}
